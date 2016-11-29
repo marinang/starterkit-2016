@@ -1,0 +1,4 @@
+ I learn about:
+	-head
+	-tail
+	-less
